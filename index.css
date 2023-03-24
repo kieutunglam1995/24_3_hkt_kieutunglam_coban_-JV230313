@@ -1,0 +1,57 @@
+.container{
+   width: 100%;
+}
+
+.container-head-chil1{
+    
+    width: 300px;
+    background-color: rgba(221, 224, 26, 0.616);
+    padding:20px 30px;
+    position: relative;
+    top: -140px;
+    font-size: large;
+}
+.container-head-chil2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 140px;
+}
+.div_mau{
+    background-color: gold;
+    width: 400px;
+    height: 6px;
+    position: relative;
+    top: -452px;
+    left: 112px;
+}
+.div_mau1{
+    background-color: gold;
+    width: 400px;
+    height: 6px;
+    position: relative;
+    top: -457px;
+    left: 652px;
+}
+.container-head-chil3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 140px;
+}
+.div_mau3{
+    background-color: gold;
+    width: 400px;
+    height: 6px;
+    position: relative;
+    top: -452px;
+    left: 112px;
+}
+.div_mau4{
+    background-color: gold;
+    width: 400px;
+    height: 6px;
+    position: relative;
+    top: -458px;
+    left: 652px;
+}
